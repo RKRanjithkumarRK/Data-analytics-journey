@@ -63,5 +63,33 @@ If you’re a recruiter or hiring manager:
 - ✉️ Reach me at: ranjithkumar24072004@gmail.com  
 
 ---
+## ✅ Past Progress Summary  
+
+**Course 1: Foundations: Data, Data, Everywhere**  
+- Week 1: Learned what data analytics is and why it’s important  
+- Week 2: Explored the data life cycle and six key phases of analysis  
+- Week 3: Understood the role of a data analyst and core analytical skills  
+
+**Course 2: Ask Questions to Make Data-Driven Decisions**  
+- Week 4: Learned to define problems and ask effective, structured questions  
+- Week 5: Practiced making decisions with data and identifying stakeholders  
+- Week 6: Explored SMART questions and how to frame analysis goals  
+
+**Course 3: Prepare Data for Exploration**  
+- Week 7: Learned about different data types, formats, and structures  
+- Week 8: Explored data collection methods and data sources  
+- Week 9: Practiced using spreadsheets and SQL for organizing data  
+
+**Course 4: Process Data from Dirty to Clean**  
+- Week 10: Learned common data cleaning techniques and spotting errors  
+- Week 11: Practiced handling missing values, duplicates, and inconsistencies  
+- Week 12: Explored spreadsheet/SQL functions like `COUNTIF`, `TRIM`, and `JOIN`  
+
+---
+
+## 🔄 Current Progress  
+
+**Course 5: Analyze Data to Answer Questions**  
+(Updating weekly from here!)  
 
 ✨ Thanks for visiting my repo — follow along as I continue my journey toward becoming a **data analyst**!

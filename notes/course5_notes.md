@@ -1,7 +1,7 @@
 # Google Data Analytics Professional Certificate – Progress Journal
 ## Course 5: Analyze Data to Answer Questions
 
-Current Progress: Completed up to Module 2 (Format and Adjust Data)
+Current Progress: Completed up to Module 2 (Format and Adjust Data) 
 
 📌 Module 1 – Organize Data for More Effective Analysis
 In this module, I built a strong foundation in the data analysis process and the importance of keeping data organized.

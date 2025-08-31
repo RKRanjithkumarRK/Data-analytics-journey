@@ -1,5 +1,5 @@
-*** Google Data Analytics Professional Certificate – Progress Journal ***
-# Course 5: Analyze Data to Answer Questions
+# Google Data Analytics Professional Certificate – Progress Journal
+## Course 5: Analyze Data to Answer Questions
 
 Current Progress: Completed up to Module 2 (Format and Adjust Data)
 
